@@ -1,0 +1,34 @@
+
+*{
+    padding: 0;
+   
+}
+.navbar{
+    display: flex;
+    align-items: center;
+}
+.navbar-brand{
+    text-decoration-color: black;
+    /* background-color: blueviolet;  */
+width: 20%;
+}
+.linksContainer{
+    display: flex;
+    justify-content: space-around;
+    /* background-color: aqua; */
+    width: 60%;
+    padding: 10px;
+    text-decoration: none;
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.joinUsDiv{
+    /* background-color: bisque; */
+    width: 20%;
+
+}
+    
+    
